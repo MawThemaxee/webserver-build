@@ -1,0 +1,1 @@
+import{t as e}from"./index-A4KwVWLX.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`h1`,{children:`Welcome to the Home Page`}),(0,t.jsx)(`p`,{children:`This is the main landing page of the application.`})]});export{n as default};
