@@ -1,1 +1,0 @@
-import{t as e}from"./index-CTRfyuN3.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{className:`container`,children:[(0,t.jsx)(`h1`,{children:`Terms and Conditions`}),(0,t.jsx)(`p`,{children:`This is the terms and conditions page of the application. Please read the terms carefully before using the application.`})]});export{n as default};

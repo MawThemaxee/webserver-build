@@ -1,1 +1,0 @@
-import{t as e}from"./index-CTRfyuN3.js";var t=e(),n=()=>(0,t.jsxs)(`div`,{className:`container`,children:[(0,t.jsx)(`h1`,{children:`Welcome to My Application`}),(0,t.jsx)(`p`,{children:`This is the home page of the application. Use the navigation links above to explore different sections.`})]});export{n as default};
